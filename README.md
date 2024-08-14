@@ -61,6 +61,6 @@ Contributions are welcome! If you'd like to contribute to this project, please c
 
 ## Contact
 
-Author: HRAmbalia
+Author: HRAmbalia, Chandresh Gohel, Samruddhi Thakor, Riddhi Chaudhari
 
 Email: ambaliaharshit25@gmail.com
