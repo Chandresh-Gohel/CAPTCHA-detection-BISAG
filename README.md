@@ -55,9 +55,12 @@ To run the application, run the following command:
 python3 manage.py runserver
 ```
 
-## Contributing
+## Contributors
 
-Contributions are welcome! If you'd like to contribute to this project, please contact the author.
+Contributions are welcome! If you'd like to contribute to this project, please contact contributors.
+1. Chandresh Gohel
+2. Riddhi Chaudhary
+3. Samruddhi Thakor
 
 ## Contact
 
